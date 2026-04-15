@@ -2,9 +2,9 @@
 #include <vector>
 
 class ImprimeColeccion {
-	int* datos_ = nullptr;
+	const int* datos_ = nullptr;
 public:
-	ImprimeColeccion(int* datos_out) :
+	ImprimeColeccion(const int* datos_out) :
 		datos_{ datos_out }
 	{}
 };
