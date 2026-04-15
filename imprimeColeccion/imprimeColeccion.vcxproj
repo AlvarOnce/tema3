@@ -24,6 +24,7 @@
     <ProjectGuid>{0a167720-653f-461a-9e79-661d3954d437}</ProjectGuid>
     <RootNamespace>imprimeColeccion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>4imprimeColeccion</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

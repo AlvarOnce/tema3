@@ -24,6 +24,7 @@
     <ProjectGuid>{11149607-6dc4-4f00-91c0-fab77d57763a}</ProjectGuid>
     <RootNamespace>mundoCopiable</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>5mundoCopiable</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

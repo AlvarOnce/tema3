@@ -24,6 +24,7 @@
     <ProjectGuid>{dd62ce42-9c57-4c05-af29-5598190095ba}</ProjectGuid>
     <RootNamespace>complexArray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>1complexArray</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
